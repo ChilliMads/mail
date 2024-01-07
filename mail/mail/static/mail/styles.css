@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.email-sender, .email-recipients, .email-subject, .email-timestamp {
+    margin-bottom: 5px;
+}
